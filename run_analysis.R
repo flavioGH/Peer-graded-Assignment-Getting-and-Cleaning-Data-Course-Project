@@ -1,4 +1,4 @@
-# Download dataset
+#  Download dataset
 if(!file.exists("./data")){dir.create("./data")}
 # Data for the project:
 fileUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
