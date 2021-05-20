@@ -1,4 +1,4 @@
-### The original data was transformed by
+###  The original data was transformed by
 
 1. Merging the training and the test sets to create one data set.
 2. Extracting only the measurements on the mean and standard deviation for each measurement.
